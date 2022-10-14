@@ -1,15 +1,14 @@
 # coin-exchange1
 
 #### 介绍
-数字货币交易所 项目描述：提供行情K线，钱包，法币兑换，币币交易，合约，期权，代理商，API接入等功能，参照币严交易所 技术架构：后端Java spring cloud 框架,+ mysql, mongodb, kafka ，前端VUE+ios/ android
+开源的 数字货币交易所 ，项目描述：提供行情K线，钱包，法币兑换，币币交易，合约，期权，代理商，API接入等功能，参照币严交易所 技术架构：后端Java spring cloud 框架,+ mysql, mongodb, kafka ，前端VUE+ios/ android
 
 
 ####   项目源码地址 ：
 
-代码量太多不好上传，链接是开源版的，我们提供商业版的，
+代码量太多不好上传，链接是开源版的，并且我们提供商业版的，
 
-可以参考
-
+源码地址：
 https://gitee.com/bizzan/coin-exchange?_from=gitee_search
 
 
